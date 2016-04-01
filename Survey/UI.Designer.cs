@@ -102,7 +102,7 @@
             this.richTextBox1.Size = new System.Drawing.Size(470, 103);
             this.richTextBox1.TabIndex = 12;
             this.richTextBox1.Text = "Hi, 我是作者 資工系馬聖豪, 這是一支開源且免費的義守期中/期末意見自動填寫機器人.\n歡迎你一起協助開發此程式, Github: https://github" +
-    ".com/aaaddress1/isuSurvey-v2.0\n聯繫我: aaaddress1@gmail.com";
+    ".com/aaaddress1/isuSurvey-v2\n聯繫我: aaaddress1@gmail.com";
             // 
             // groupBox1
             // 
